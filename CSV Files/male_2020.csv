@@ -1,0 +1,1484 @@
+Darlington,all_ages,51885
+Darlington,age_16_24,4824
+Darlington,age_25_49,15878
+Darlington,age_50_64,10752
+County Durham,all_ages,260159
+County Durham,age_16_24,30190
+County Durham,age_25_49,76119
+County Durham,age_50_64,54592
+Hartlepool,all_ages,45582
+Hartlepool,age_16_24,4749
+Hartlepool,age_25_49,13737
+Hartlepool,age_50_64,9549
+Middlesbrough,all_ages,69933
+Middlesbrough,age_16_24,9765
+Middlesbrough,age_25_49,21835
+Middlesbrough,age_50_64,12507
+Northumberland,all_ages,155146
+Northumberland,age_16_24,13636
+Northumberland,age_25_49,42533
+Northumberland,age_50_64,35011
+Redcar and Cleveland,all_ages,65811
+Redcar and Cleveland,age_16_24,6335
+Redcar and Cleveland,age_25_49,18435
+Redcar and Cleveland,age_50_64,14056
+Stockton-on-Tees,all_ages,97846
+Stockton-on-Tees,age_16_24,10356
+Stockton-on-Tees,age_25_49,30804
+Stockton-on-Tees,age_50_64,19374
+Gateshead,all_ages,101065
+Gateshead,age_16_24,10826
+Gateshead,age_25_49,33461
+Gateshead,age_50_64,19891
+Newcastle upon Tyne,all_ages,152311
+Newcastle upon Tyne,age_16_24,28278
+Newcastle upon Tyne,age_25_49,51836
+Newcastle upon Tyne,age_50_64,23913
+North Tyneside,all_ages,99582
+North Tyneside,age_16_24,8967
+North Tyneside,age_25_49,31765
+North Tyneside,age_50_64,20862
+South Tyneside,all_ages,72655
+South Tyneside,age_16_24,7068
+South Tyneside,age_25_49,21824
+South Tyneside,age_50_64,15915
+Sunderland,all_ages,135725
+Sunderland,age_16_24,14988
+Sunderland,age_25_49,42355
+Sunderland,age_50_64,28306
+Blackburn with Darwen,all_ages,74620
+Blackburn with Darwen,age_16_24,8630
+Blackburn with Darwen,age_25_49,24741
+Blackburn with Darwen,age_50_64,13477
+Blackpool,all_ages,68843
+Blackpool,age_16_24,6876
+Blackpool,age_25_49,20608
+Blackpool,age_50_64,15146
+Cheshire East,all_ages,187022
+Cheshire East,age_16_24,16154
+Cheshire East,age_25_49,53221
+Cheshire East,age_50_64,41064
+Cheshire West and Chester,all_ages,165728
+Cheshire West and Chester,age_16_24,16492
+Cheshire West and Chester,age_25_49,48530
+Cheshire West and Chester,age_50_64,34866
+Halton,all_ages,62653
+Halton,age_16_24,6132
+Halton,age_25_49,19454
+Halton,age_50_64,12510
+Warrington,all_ages,105799
+Warrington,age_16_24,9914
+Warrington,age_25_49,34543
+Warrington,age_50_64,21952
+Cumbria,all_ages,245266
+Cumbria,age_16_24,22107
+Cumbria,age_25_49,67360
+Cumbria,age_50_64,55403
+Bolton,all_ages,142757
+Bolton,age_16_24,15525
+Bolton,age_25_49,45599
+Bolton,age_50_64,26684
+Bury,all_ages,93594
+Bury,age_16_24,9080
+Bury,age_25_49,29671
+Bury,age_50_64,18387
+Manchester,all_ages,286168
+Manchester,age_16_24,48157
+Manchester,age_25_49,117400
+Manchester,age_50_64,37127
+Oldham,all_ages,117052
+Oldham,age_16_24,13146
+Oldham,age_25_49,37709
+Oldham,age_50_64,21116
+Rochdale,all_ages,108181
+Rochdale,age_16_24,11308
+Rochdale,age_25_49,34951
+Rochdale,age_50_64,20266
+Salford,all_ages,130583
+Salford,age_16_24,14391
+Salford,age_25_49,49342
+Salford,age_50_64,22177
+Stockport,all_ages,144843
+Stockport,age_16_24,12606
+Stockport,age_25_49,45252
+Stockport,age_50_64,29288
+Tameside,all_ages,110844
+Tameside,age_16_24,10704
+Tameside,age_25_49,35099
+Tameside,age_50_64,22955
+Trafford,all_ages,117597
+Trafford,age_16_24,10515
+Trafford,age_25_49,38762
+Trafford,age_50_64,22866
+Wigan,all_ages,163147
+Wigan,age_16_24,15788
+Wigan,age_25_49,51695
+Wigan,age_50_64,33973
+Lancashire,all_ages,597582
+Lancashire,age_16_24,65930
+Lancashire,age_25_49,176203
+Lancashire,age_50_64,121536
+Knowsley,all_ages,71449
+Knowsley,age_16_24,7514
+Knowsley,age_25_49,21458
+Knowsley,age_50_64,14911
+Liverpool,all_ages,250920
+Liverpool,age_16_24,36599
+Liverpool,age_25_49,93418
+Liverpool,age_50_64,41393
+Sefton,all_ages,133469
+Sefton,age_16_24,12277
+Sefton,age_25_49,38143
+Sefton,age_50_64,29036
+St. Helens,all_ages,88580
+St. Helens,age_16_24,8449
+St. Helens,age_25_49,27586
+St. Helens,age_50_64,18342
+Wirral,all_ages,157009
+Wirral,age_16_24,14555
+Wirral,age_25_49,46043
+Wirral,age_50_64,32625
+East Riding of Yorkshire,all_ages,167089
+East Riding of Yorkshire,age_16_24,14918
+East Riding of Yorkshire,age_25_49,43762
+East Riding of Yorkshire,age_50_64,38134
+"Kingston upon Hull, City of",all_ages,132008
+"Kingston upon Hull, City of",age_16_24,16696
+"Kingston upon Hull, City of",age_25_49,46497
+"Kingston upon Hull, City of",age_50_64,23219
+North East Lincolnshire,all_ages,78407
+North East Lincolnshire,age_16_24,7472
+North East Lincolnshire,age_25_49,24056
+North East Lincolnshire,age_50_64,15964
+North Lincolnshire,all_ages,85999
+North Lincolnshire,age_16_24,7916
+North Lincolnshire,age_25_49,25815
+North Lincolnshire,age_50_64,18509
+York,all_ages,104259
+York,age_16_24,16783
+York,age_25_49,34319
+York,age_50_64,18414
+North Yorkshire,all_ages,302701
+North Yorkshire,age_16_24,26895
+North Yorkshire,age_25_49,83268
+North Yorkshire,age_50_64,68196
+Barnsley,all_ages,123186
+Barnsley,age_16_24,11800
+Barnsley,age_25_49,38960
+Barnsley,age_50_64,25924
+Doncaster,all_ages,154297
+Doncaster,age_16_24,14483
+Doncaster,age_25_49,50207
+Doncaster,age_50_64,31261
+Rotherham,all_ages,130816
+Rotherham,age_16_24,12920
+Rotherham,age_25_49,39887
+Rotherham,age_50_64,27244
+Sheffield,all_ages,293088
+Sheffield,age_16_24,47678
+Sheffield,age_25_49,96740
+Sheffield,age_50_64,49779
+Bradford,all_ages,265444
+Bradford,age_16_24,30765
+Bradford,age_25_49,86767
+Bradford,age_50_64,45788
+Calderdale,all_ages,104460
+Calderdale,age_16_24,9859
+Calderdale,age_25_49,32465
+Calderdale,age_50_64,22188
+Kirklees,all_ages,220256
+Kirklees,age_16_24,25283
+Kirklees,age_25_49,70142
+Kirklees,age_50_64,42406
+Leeds,all_ages,393457
+Leeds,age_16_24,57770
+Leeds,age_25_49,133160
+Leeds,age_50_64,65631
+Wakefield,all_ages,169927
+Wakefield,age_16_24,15676
+Wakefield,age_25_49,53728
+Wakefield,age_50_64,35727
+Derby,all_ages,129770
+Derby,age_16_24,16717
+Derby,age_25_49,42832
+Derby,age_50_64,22788
+Leicester,all_ages,181615
+Leicester,age_16_24,29642
+Leicester,age_25_49,64544
+Leicester,age_50_64,26986
+Nottingham,all_ages,169174
+Nottingham,age_16_24,35731
+Nottingham,age_25_49,58365
+Nottingham,age_50_64,24065
+Rutland,all_ages,20242
+Rutland,age_16_24,1760
+Rutland,age_25_49,5990
+Rutland,age_50_64,4169
+Derbyshire,all_ages,392158
+Derbyshire,age_16_24,35722
+Derbyshire,age_25_49,116272
+Derbyshire,age_50_64,87603
+Leicestershire,all_ages,346476
+Leicestershire,age_16_24,39458
+Leicestershire,age_25_49,101977
+Leicestershire,age_50_64,71639
+Lincolnshire,all_ages,373919
+Lincolnshire,age_16_24,36724
+Lincolnshire,age_25_49,106279
+Lincolnshire,age_50_64,77222
+Northamptonshire,all_ages,375388
+Northamptonshire,age_16_24,36074
+Northamptonshire,age_25_49,119473
+Northamptonshire,age_50_64,75236
+Nottinghamshire,all_ages,409501
+Nottinghamshire,age_16_24,38359
+Nottinghamshire,age_25_49,125879
+Nottinghamshire,age_50_64,86186
+"Herefordshire, County of",all_ages,95931
+"Herefordshire, County of",age_16_24,8129
+"Herefordshire, County of",age_25_49,27944
+"Herefordshire, County of",age_50_64,20592
+Shropshire,all_ages,158759
+Shropshire,age_16_24,14169
+Shropshire,age_25_49,44951
+Shropshire,age_50_64,35382
+Stoke-on-Trent,all_ages,128810
+Stoke-on-Trent,age_16_24,14572
+Stoke-on-Trent,age_25_49,42560
+Stoke-on-Trent,age_50_64,24021
+Telford and Wrekin,all_ages,88683
+Telford and Wrekin,age_16_24,9926
+Telford and Wrekin,age_25_49,28552
+Telford and Wrekin,age_50_64,17113
+Staffordshire,all_ages,436048
+Staffordshire,age_16_24,44073
+Staffordshire,age_25_49,131973
+Staffordshire,age_50_64,91963
+Warwickshire,all_ages,281309
+Warwickshire,age_16_24,27803
+Warwickshire,age_25_49,87246
+Warwickshire,age_50_64,57186
+Birmingham,all_ages,576748
+Birmingham,age_16_24,84447
+Birmingham,age_25_49,199178
+Birmingham,age_50_64,87154
+Coventry,all_ages,191700
+Coventry,age_16_24,31017
+Coventry,age_25_49,70574
+Coventry,age_50_64,27609
+Dudley,all_ages,157445
+Dudley,age_16_24,15273
+Dudley,age_25_49,48352
+Dudley,age_50_64,31470
+Sandwell,all_ages,165122
+Sandwell,age_16_24,18190
+Sandwell,age_25_49,56391
+Sandwell,age_50_64,29037
+Solihull,all_ages,105414
+Solihull,age_16_24,9828
+Solihull,age_25_49,31358
+Solihull,age_50_64,21402
+Walsall,all_ages,140583
+Walsall,age_16_24,14959
+Walsall,age_25_49,45019
+Walsall,age_50_64,25857
+Wolverhampton,all_ages,130934
+Wolverhampton,age_16_24,14010
+Wolverhampton,age_25_49,44516
+Wolverhampton,age_50_64,23319
+Worcestershire,all_ages,293054
+Worcestershire,age_16_24,27840
+Worcestershire,age_25_49,85645
+Worcestershire,age_50_64,61015
+Bedford,all_ages,87825
+Bedford,age_16_24,8980
+Bedford,age_25_49,27910
+Bedford,age_50_64,17257
+Central Bedfordshire,all_ages,144339
+Central Bedfordshire,age_16_24,12638
+Central Bedfordshire,age_25_49,47449
+Central Bedfordshire,age_50_64,29330
+Luton,all_ages,113601
+Luton,age_16_24,12793
+Luton,age_25_49,42387
+Luton,age_50_64,17602
+Peterborough,all_ages,102855
+Peterborough,age_16_24,9813
+Peterborough,age_25_49,37163
+Peterborough,age_50_64,17262
+Southend-on-Sea,all_ages,91005
+Southend-on-Sea,age_16_24,8480
+Southend-on-Sea,age_25_49,29612
+Southend-on-Sea,age_50_64,18141
+Thurrock,all_ages,86985
+Thurrock,age_16_24,8603
+Thurrock,age_25_49,30230
+Thurrock,age_50_64,15883
+Cambridgeshire,all_ages,330344
+Cambridgeshire,age_16_24,37328
+Cambridgeshire,age_25_49,106082
+Cambridgeshire,age_50_64,63802
+Essex,all_ages,736438
+Essex,age_16_24,72439
+Essex,age_25_49,226046
+Essex,age_50_64,147840
+Hertfordshire,all_ages,595030
+Hertfordshire,age_16_24,56087
+Hertfordshire,age_25_49,200705
+Hertfordshire,age_50_64,114880
+Norfolk,all_ages,450189
+Norfolk,age_16_24,44366
+Norfolk,age_25_49,130157
+Norfolk,age_50_64,90349
+Suffolk,all_ages,379227
+Suffolk,age_16_24,34908
+Suffolk,age_25_49,111595
+Suffolk,age_50_64,77425
+Camden,all_ages,135348
+Camden,age_16_24,17604
+Camden,age_25_49,59012
+Camden,age_50_64,20169
+City of London,all_ages,3460
+City of London,age_16_24,116
+City of London,age_25_49,986
+City of London,age_50_64,1024
+Hackney,all_ages,144930
+Hackney,age_16_24,13626
+Hackney,age_25_49,72215
+Hackney,age_50_64,18323
+Hammersmith and Fulham,all_ages,90167
+Hammersmith and Fulham,age_16_24,9711
+Hammersmith and Fulham,age_25_49,41549
+Hammersmith and Fulham,age_50_64,13852
+Haringey,all_ages,143433
+Haringey,age_16_24,14983
+Haringey,age_25_49,65438
+Haringey,age_50_64,21970
+Islington,all_ages,125287
+Islington,age_16_24,16427
+Islington,age_25_49,61614
+Islington,age_50_64,16948
+Kensington and Chelsea,all_ages,78354
+Kensington and Chelsea,age_16_24,7843
+Kensington and Chelsea,age_25_49,31768
+Kensington and Chelsea,age_50_64,14075
+Lambeth,all_ages,167919
+Lambeth,age_16_24,15463
+Lambeth,age_25_49,86002
+Lambeth,age_50_64,24102
+Lewisham,all_ages,155608
+Lewisham,age_16_24,14689
+Lewisham,age_25_49,69772
+Lewisham,age_50_64,24479
+Newham,all_ages,192859
+Newham,age_16_24,22552
+Newham,age_25_49,90739
+Newham,age_50_64,24928
+Southwark,all_ages,163350
+Southwark,age_16_24,17637
+Southwark,age_25_49,76867
+Southwark,age_50_64,25299
+Tower Hamlets,all_ages,172257
+Tower Hamlets,age_16_24,20815
+Tower Hamlets,age_25_49,87885
+Tower Hamlets,age_50_64,19977
+Wandsworth,all_ages,159051
+Wandsworth,age_16_24,13223
+Wandsworth,age_25_49,79228
+Wandsworth,age_50_64,21751
+Westminster,all_ages,133027
+Westminster,age_16_24,14356
+Westminster,age_25_49,61181
+Westminster,age_50_64,20895
+Barking and Dagenham,all_ages,110113
+Barking and Dagenham,age_16_24,12234
+Barking and Dagenham,age_25_49,40924
+Barking and Dagenham,age_50_64,15985
+Barnet,all_ages,201014
+Barnet,age_16_24,19515
+Barnet,age_25_49,77796
+Barnet,age_50_64,33147
+Bexley,all_ages,123456
+Bexley,age_16_24,12536
+Bexley,age_25_49,41621
+Bexley,age_50_64,23271
+Brent,all_ages,170717
+Brent,age_16_24,18591
+Brent,age_25_49,68023
+Brent,age_50_64,28509
+Bromley,all_ages,164293
+Bromley,age_16_24,13887
+Bromley,age_25_49,56638
+Bromley,age_50_64,31673
+Croydon,all_ages,192988
+Croydon,age_16_24,19015
+Croydon,age_25_49,68007
+Croydon,age_50_64,35942
+Ealing,all_ages,175574
+Ealing,age_16_24,17071
+Ealing,age_25_49,68238
+Ealing,age_50_64,30147
+Enfield,all_ages,169695
+Enfield,age_16_24,18393
+Enfield,age_25_49,60729
+Enfield,age_50_64,29613
+Greenwich,all_ages,149026
+Greenwich,age_16_24,15531
+Greenwich,age_25_49,62707
+Greenwich,age_50_64,23214
+Harrow,all_ages,126926
+Harrow,age_16_24,11930
+Harrow,age_25_49,46714
+Harrow,age_50_64,22038
+Havering,all_ages,127895
+Havering,age_16_24,12674
+Havering,age_25_49,42425
+Havering,age_50_64,23933
+Hillingdon,all_ages,159065
+Hillingdon,age_16_24,18810
+Hillingdon,age_25_49,58613
+Hillingdon,age_50_64,25887
+Hounslow,all_ages,140873
+Hounslow,age_16_24,13863
+Hounslow,age_25_49,57274
+Hounslow,age_50_64,23083
+Kingston upon Thames,all_ages,90292
+Kingston upon Thames,age_16_24,10030
+Kingston upon Thames,age_25_49,34980
+Kingston upon Thames,age_50_64,15023
+Merton,all_ages,103977
+Merton,age_16_24,8855
+Merton,age_25_49,43222
+Merton,age_50_64,17270
+Redbridge,all_ages,159570
+Redbridge,age_16_24,16635
+Redbridge,age_25_49,62733
+Redbridge,age_50_64,25076
+Richmond upon Thames,all_ages,97938
+Richmond upon Thames,age_16_24,7687
+Richmond upon Thames,age_25_49,35730
+Richmond upon Thames,age_50_64,18795
+Sutton,all_ages,102589
+Sutton,age_16_24,9080
+Sutton,age_25_49,36435
+Sutton,age_50_64,19225
+Waltham Forest,all_ages,142925
+Waltham Forest,age_16_24,14140
+Waltham Forest,age_25_49,60718
+Waltham Forest,age_50_64,22239
+Bracknell Forest,all_ages,61160
+Bracknell Forest,age_16_24,5936
+Bracknell Forest,age_25_49,21073
+Bracknell Forest,age_50_64,12218
+Brighton and Hove,all_ages,149342
+Brighton and Hove,age_16_24,23480
+Brighton and Hove,age_25_49,58186
+Brighton and Hove,age_50_64,25507
+Isle of Wight,all_ages,69813
+Isle of Wight,age_16_24,6129
+Isle of Wight,age_25_49,17745
+Isle of Wight,age_50_64,15276
+Medway,all_ages,141805
+Medway,age_16_24,15934
+Medway,age_25_49,47214
+Medway,age_50_64,26808
+Milton Keynes,all_ages,137570
+Milton Keynes,age_16_24,12601
+Milton Keynes,age_25_49,50041
+Milton Keynes,age_50_64,24303
+Portsmouth,all_ages,111027
+Portsmouth,age_16_24,19296
+Portsmouth,age_25_49,38303
+Portsmouth,age_50_64,18162
+Reading,all_ages,84755
+Reading,age_16_24,11226
+Reading,age_25_49,32627
+Reading,age_50_64,13437
+Slough,all_ages,76579
+Slough,age_16_24,7557
+Slough,age_25_49,29728
+Slough,age_50_64,11794
+Southampton,all_ages,131834
+Southampton,age_16_24,25327
+Southampton,age_25_49,46537
+Southampton,age_50_64,19668
+West Berkshire,all_ages,80044
+West Berkshire,age_16_24,7286
+West Berkshire,age_25_49,24403
+West Berkshire,age_50_64,17288
+Windsor and Maidenhead,all_ages,75458
+Windsor and Maidenhead,age_16_24,6195
+Windsor and Maidenhead,age_25_49,24520
+Windsor and Maidenhead,age_50_64,15312
+Wokingham,all_ages,82950
+Wokingham,age_16_24,7491
+Wokingham,age_25_49,26414
+Wokingham,age_50_64,16816
+Buckinghamshire,all_ages,269623
+Buckinghamshire,age_16_24,25086
+Buckinghamshire,age_25_49,83449
+Buckinghamshire,age_50_64,55047
+East Sussex,all_ages,275169
+East Sussex,age_16_24,24848
+East Sussex,age_25_49,73869
+East Sussex,age_50_64,59613
+Hampshire,all_ages,681801
+Hampshire,age_16_24,65372
+Hampshire,age_25_49,202063
+Hampshire,age_50_64,142734
+Kent,all_ages,783174
+Kent,age_16_24,79973
+Kent,age_25_49,237111
+Kent,age_50_64,157487
+Oxfordshire,all_ages,344772
+Oxfordshire,age_16_24,42153
+Oxfordshire,age_25_49,111247
+Oxfordshire,age_50_64,64594
+Surrey,all_ages,594449
+Surrey,age_16_24,58166
+Surrey,age_25_49,188606
+Surrey,age_50_64,119189
+West Sussex,all_ages,425896
+West Sussex,age_16_24,38133
+West Sussex,age_25_49,125350
+West Sussex,age_50_64,88022
+Bath and North East Somerset,all_ages,95421
+Bath and North East Somerset,age_16_24,16754
+Bath and North East Somerset,age_25_49,27842
+Bath and North East Somerset,age_50_64,16998
+Bournemouth,all_ages,101162
+Bournemouth,age_16_24,13821
+Bournemouth,age_25_49,35047
+Bournemouth,age_50_64,18036
+"Bristol, City of",all_ages,238764
+"Bristol, City of",age_16_24,35568
+"Bristol, City of",age_25_49,95206
+"Bristol, City of",age_50_64,33657
+Cornwall,all_ages,277245
+Cornwall,age_16_24,27514
+Cornwall,age_25_49,73809
+Cornwall,age_50_64,59078
+Isles of Scilly,all_ages,1168
+Isles of Scilly,age_16_24,82
+Isles of Scilly,age_25_49,330
+Isles of Scilly,age_50_64,288
+North Somerset,all_ages,106577
+North Somerset,age_16_24,9182
+North Somerset,age_25_49,30626
+North Somerset,age_50_64,21942
+Plymouth,all_ages,132563
+Plymouth,age_16_24,20136
+Plymouth,age_25_49,41531
+Plymouth,age_50_64,23763
+Poole,all_ages,75282
+Poole,age_16_24,6924
+Poole,age_25_49,23007
+Poole,age_50_64,15219
+South Gloucestershire,all_ages,142390
+South Gloucestershire,age_16_24,15470
+South Gloucestershire,age_25_49,46366
+South Gloucestershire,age_50_64,27556
+Swindon,all_ages,111827
+Swindon,age_16_24,10370
+Swindon,age_25_49,37631
+Swindon,age_50_64,22789
+Torbay,all_ages,66769
+Torbay,age_16_24,5856
+Torbay,age_25_49,17312
+Torbay,age_50_64,14639
+Wiltshire,all_ages,252982
+Wiltshire,age_16_24,24796
+Wiltshire,age_25_49,74484
+Wiltshire,age_50_64,52811
+Devon,all_ages,391324
+Devon,age_16_24,39787
+Devon,age_25_49,107125
+Devon,age_50_64,81822
+Dorset,all_ages,209997
+Dorset,age_16_24,17781
+Dorset,age_25_49,52185
+Dorset,age_50_64,46022
+Gloucestershire,all_ages,314331
+Gloucestershire,age_16_24,30820
+Gloucestershire,age_25_49,93179
+Gloucestershire,age_50_64,66424
+Somerset,all_ages,276682
+Somerset,age_16_24,24755
+Somerset,age_25_49,75226
+Somerset,age_50_64,59343
+Allerdale,all_ages,48108
+Allerdale,age_16_24,4299
+Allerdale,age_25_49,13297
+Allerdale,age_50_64,10857
+Barrow-in-Furness,all_ages,32621
+Barrow-in-Furness,age_16_24,3143
+Barrow-in-Furness,age_25_49,9472
+Barrow-in-Furness,age_50_64,7152
+Carlisle,all_ages,53173
+Carlisle,age_16_24,5039
+Carlisle,age_25_49,15604
+Carlisle,age_50_64,11390
+Copeland,all_ages,34255
+Copeland,age_16_24,2993
+Copeland,age_25_49,9740
+Copeland,age_50_64,7916
+Eden,all_ages,26063
+Eden,age_16_24,2182
+Eden,age_25_49,6576
+Eden,age_50_64,6230
+South Lakeland,all_ages,51046
+South Lakeland,age_16_24,4451
+South Lakeland,age_25_49,12671
+South Lakeland,age_50_64,11858
+Burnley,all_ages,43404
+Burnley,age_16_24,4597
+Burnley,age_25_49,13324
+Burnley,age_50_64,8486
+Chorley,all_ages,59652
+Chorley,age_16_24,5062
+Chorley,age_25_49,19335
+Chorley,age_50_64,12407
+Fylde,all_ages,39029
+Fylde,age_16_24,3034
+Fylde,age_25_49,10311
+Fylde,age_50_64,9050
+Hyndburn,all_ages,39508
+Hyndburn,age_16_24,4065
+Hyndburn,age_25_49,12133
+Hyndburn,age_50_64,7743
+Lancaster,all_ages,70884
+Lancaster,age_16_24,11454
+Lancaster,age_25_49,19683
+Lancaster,age_50_64,13192
+Pendle,all_ages,45060
+Pendle,age_16_24,4239
+Pendle,age_25_49,14333
+Pendle,age_50_64,8289
+Preston,all_ages,71632
+Preston,age_16_24,10838
+Preston,age_25_49,23507
+Preston,age_50_64,12706
+Ribble Valley,all_ages,29319
+Ribble Valley,age_16_24,2623
+Ribble Valley,age_25_49,7661
+Ribble Valley,age_50_64,7007
+Rossendale,all_ages,34971
+Rossendale,age_16_24,3152
+Rossendale,age_25_49,10727
+Rossendale,age_50_64,7543
+South Ribble,all_ages,54111
+South Ribble,age_16_24,4833
+South Ribble,age_25_49,16295
+South Ribble,age_50_64,11444
+West Lancashire,all_ages,55500
+West Lancashire,age_16_24,7078
+West Lancashire,age_25_49,14968
+West Lancashire,age_50_64,11732
+Wyre,all_ages,54512
+Wyre,age_16_24,4955
+Wyre,age_25_49,13926
+Wyre,age_50_64,11937
+Craven,all_ages,27504
+Craven,age_16_24,2173
+Craven,age_25_49,6921
+Craven,age_50_64,6511
+Hambleton,all_ages,44511
+Hambleton,age_16_24,3587
+Hambleton,age_25_49,11761
+Hambleton,age_50_64,10310
+Harrogate,all_ages,78658
+Harrogate,age_16_24,6591
+Harrogate,age_25_49,22012
+Harrogate,age_50_64,17922
+Richmondshire,all_ages,28537
+Richmondshire,age_16_24,3822
+Richmondshire,age_25_49,9084
+Richmondshire,age_50_64,5512
+Ryedale,all_ages,26953
+Ryedale,age_16_24,2258
+Ryedale,age_25_49,6743
+Ryedale,age_50_64,6297
+Scarborough,all_ages,52612
+Scarborough,age_16_24,4735
+Scarborough,age_25_49,13545
+Scarborough,age_50_64,11788
+Selby,all_ages,43926
+Selby,age_16_24,3729
+Selby,age_25_49,13202
+Selby,age_50_64,9856
+Amber Valley,all_ages,62089
+Amber Valley,age_16_24,5464
+Amber Valley,age_25_49,18238
+Amber Valley,age_50_64,14040
+Bolsover,all_ages,39466
+Bolsover,age_16_24,3750
+Bolsover,age_25_49,12332
+Bolsover,age_50_64,8492
+Chesterfield,all_ages,51539
+Chesterfield,age_16_24,4843
+Chesterfield,age_25_49,16041
+Chesterfield,age_50_64,11266
+Derbyshire Dales,all_ages,35266
+Derbyshire Dales,age_16_24,2848
+Derbyshire Dales,age_25_49,8897
+Derbyshire Dales,age_50_64,8766
+Erewash,all_ages,57476
+Erewash,age_16_24,5385
+Erewash,age_25_49,17591
+Erewash,age_50_64,12403
+High Peak,all_ages,45538
+High Peak,age_16_24,4371
+High Peak,age_25_49,13189
+High Peak,age_50_64,10757
+North East Derbyshire,all_ages,49462
+North East Derbyshire,age_16_24,4270
+North East Derbyshire,age_25_49,13792
+North East Derbyshire,age_50_64,10947
+South Derbyshire,all_ages,51322
+South Derbyshire,age_16_24,4791
+South Derbyshire,age_25_49,16192
+South Derbyshire,age_50_64,10932
+Blaby,all_ages,49190
+Blaby,age_16_24,4694
+Blaby,age_25_49,14956
+Blaby,age_50_64,10251
+Charnwood,all_ages,93032
+Charnwood,age_16_24,16148
+Charnwood,age_25_49,27768
+Charnwood,age_50_64,16855
+Harborough,all_ages,46243
+Harborough,age_16_24,3977
+Harborough,age_25_49,13060
+Harborough,age_50_64,10364
+Hinckley and Bosworth,all_ages,55842
+Hinckley and Bosworth,age_16_24,4862
+Hinckley and Bosworth,age_25_49,16659
+Hinckley and Bosworth,age_50_64,11943
+Melton,all_ages,25069
+Melton,age_16_24,2129
+Melton,age_25_49,6807
+Melton,age_50_64,5832
+North West Leicestershire,all_ages,50535
+North West Leicestershire,age_16_24,4697
+North West Leicestershire,age_25_49,15397
+North West Leicestershire,age_50_64,10925
+Oadby and Wigston,all_ages,26565
+Oadby and Wigston,age_16_24,2951
+Oadby and Wigston,age_25_49,7330
+Oadby and Wigston,age_50_64,5469
+Boston,all_ages,34544
+Boston,age_16_24,3180
+Boston,age_25_49,11342
+Boston,age_50_64,6388
+East Lindsey,all_ages,68492
+East Lindsey,age_16_24,5505
+East Lindsey,age_25_49,16172
+East Lindsey,age_50_64,15373
+Lincoln,all_ages,49099
+Lincoln,age_16_24,8898
+Lincoln,age_25_49,16398
+Lincoln,age_50_64,7962
+North Kesteven,all_ages,56979
+North Kesteven,age_16_24,4927
+North Kesteven,age_25_49,16601
+North Kesteven,age_50_64,11884
+South Holland,all_ages,46955
+South Holland,age_16_24,4056
+South Holland,age_25_49,13484
+South Holland,age_50_64,9818
+South Kesteven,all_ages,70432
+South Kesteven,age_16_24,6026
+South Kesteven,age_25_49,19866
+South Kesteven,age_50_64,15340
+West Lindsey,all_ages,47418
+West Lindsey,age_16_24,4132
+West Lindsey,age_25_49,12416
+West Lindsey,age_50_64,10457
+Corby,all_ages,35881
+Corby,age_16_24,3275
+Corby,age_25_49,12455
+Corby,age_50_64,7007
+Daventry,all_ages,41419
+Daventry,age_16_24,3596
+Daventry,age_25_49,11832
+Daventry,age_50_64,9515
+East Northamptonshire,all_ages,46660
+East Northamptonshire,age_16_24,4180
+East Northamptonshire,age_25_49,13414
+East Northamptonshire,age_50_64,10214
+Kettering,all_ages,50539
+Kettering,age_16_24,4623
+Kettering,age_25_49,16236
+Kettering,age_50_64,10016
+Northampton,all_ages,115814
+Northampton,age_16_24,12718
+Northampton,age_25_49,40808
+Northampton,age_50_64,20416
+South Northamptonshire,all_ages,45637
+South Northamptonshire,age_16_24,3943
+South Northamptonshire,age_25_49,12813
+South Northamptonshire,age_50_64,10254
+Wellingborough,all_ages,39438
+Wellingborough,age_16_24,3739
+Wellingborough,age_25_49,11915
+Wellingborough,age_50_64,7814
+Ashfield,all_ages,62880
+Ashfield,age_16_24,6094
+Ashfield,age_25_49,19470
+Ashfield,age_50_64,13220
+Bassetlaw,all_ages,58016
+Bassetlaw,age_16_24,5187
+Bassetlaw,age_25_49,16950
+Bassetlaw,age_50_64,12934
+Broxtowe,all_ages,56942
+Broxtowe,age_16_24,5517
+Broxtowe,age_25_49,18463
+Broxtowe,age_50_64,11276
+Gedling,all_ages,58172
+Gedling,age_16_24,5214
+Gedling,age_25_49,18162
+Gedling,age_50_64,12071
+Mansfield,all_ages,54253
+Mansfield,age_16_24,5000
+Mansfield,age_25_49,17407
+Mansfield,age_50_64,11345
+Newark and Sherwood,all_ages,60944
+Newark and Sherwood,age_16_24,5638
+Newark and Sherwood,age_25_49,17899
+Newark and Sherwood,age_50_64,13206
+Rushcliffe,all_ages,58294
+Rushcliffe,age_16_24,5709
+Rushcliffe,age_25_49,17528
+Rushcliffe,age_50_64,12134
+Cannock Chase,all_ages,49098
+Cannock Chase,age_16_24,4844
+Cannock Chase,age_25_49,15710
+Cannock Chase,age_50_64,10544
+East Staffordshire,all_ages,59760
+East Staffordshire,age_16_24,5617
+East Staffordshire,age_25_49,19063
+East Staffordshire,age_50_64,12361
+Lichfield,all_ages,51542
+Lichfield,age_16_24,4738
+Lichfield,age_25_49,14988
+Lichfield,age_50_64,11101
+Newcastle-under-Lyme,all_ages,65175
+Newcastle-under-Lyme,age_16_24,8468
+Newcastle-under-Lyme,age_25_49,20511
+Newcastle-under-Lyme,age_50_64,12641
+South Staffordshire,all_ages,55857
+South Staffordshire,age_16_24,5154
+South Staffordshire,age_25_49,16086
+South Staffordshire,age_50_64,12534
+Stafford,all_ages,68156
+Stafford,age_16_24,7044
+Stafford,age_25_49,20473
+Stafford,age_50_64,14267
+Staffordshire Moorlands,all_ages,48700
+Staffordshire Moorlands,age_16_24,4381
+Staffordshire Moorlands,age_25_49,13155
+Staffordshire Moorlands,age_50_64,11168
+Tamworth,all_ages,37760
+Tamworth,age_16_24,3827
+Tamworth,age_25_49,11987
+Tamworth,age_50_64,7347
+North Warwickshire,all_ages,31609
+North Warwickshire,age_16_24,2821
+North Warwickshire,age_25_49,9260
+North Warwickshire,age_50_64,7093
+Nuneaton and Bedworth,all_ages,63681
+Nuneaton and Bedworth,age_16_24,5996
+Nuneaton and Bedworth,age_25_49,20170
+Nuneaton and Bedworth,age_50_64,12835
+Rugby,all_ages,54019
+Rugby,age_16_24,4965
+Rugby,age_25_49,17413
+Rugby,age_50_64,10672
+Stratford-on-Avon,all_ages,61014
+Stratford-on-Avon,age_16_24,4786
+Stratford-on-Avon,age_25_49,16531
+Stratford-on-Avon,age_50_64,13559
+Warwick,all_ages,70986
+Warwick,age_16_24,9235
+Warwick,age_25_49,23872
+Warwick,age_50_64,13027
+Bromsgrove,all_ages,48895
+Bromsgrove,age_16_24,4214
+Bromsgrove,age_25_49,14518
+Bromsgrove,age_50_64,10368
+Malvern Hills,all_ages,38093
+Malvern Hills,age_16_24,3164
+Malvern Hills,age_25_49,9171
+Malvern Hills,age_50_64,8834
+Redditch,all_ages,42438
+Redditch,age_16_24,4058
+Redditch,age_25_49,14128
+Redditch,age_50_64,7878
+Worcester,all_ages,51339
+Worcester,age_16_24,6834
+Worcester,age_25_49,17131
+Worcester,age_50_64,9490
+Wychavon,all_ages,62262
+Wychavon,age_16_24,5137
+Wychavon,age_25_49,16581
+Wychavon,age_50_64,14094
+Wyre Forest,all_ages,50027
+Wyre Forest,age_16_24,4433
+Wyre Forest,age_25_49,14116
+Wyre Forest,age_50_64,10351
+Cambridge,all_ages,65224
+Cambridge,age_16_24,14481
+Cambridge,age_25_49,22996
+Cambridge,age_50_64,9290
+East Cambridgeshire,all_ages,44921
+East Cambridgeshire,age_16_24,3841
+East Cambridgeshire,age_25_49,13870
+East Cambridgeshire,age_50_64,9021
+Fenland,all_ages,50672
+Fenland,age_16_24,4671
+Fenland,age_25_49,14895
+Fenland,age_50_64,10553
+Huntingdonshire,all_ages,89894
+Huntingdonshire,age_16_24,7717
+Huntingdonshire,age_25_49,28682
+Huntingdonshire,age_50_64,18764
+South Cambridgeshire,all_ages,79633
+South Cambridgeshire,age_16_24,6618
+South Cambridgeshire,age_25_49,25639
+South Cambridgeshire,age_50_64,16174
+Basildon,all_ages,92791
+Basildon,age_16_24,8992
+Basildon,age_25_49,30786
+Basildon,age_50_64,17652
+Braintree,all_ages,75666
+Braintree,age_16_24,7050
+Braintree,age_25_49,22971
+Braintree,age_50_64,15810
+Brentwood,all_ages,38488
+Brentwood,age_16_24,3387
+Brentwood,age_25_49,12240
+Brentwood,age_50_64,7964
+Castle Point,all_ages,44454
+Castle Point,age_16_24,4334
+Castle Point,age_25_49,12169
+Castle Point,age_50_64,9446
+Chelmsford,all_ages,88407
+Chelmsford,age_16_24,8356
+Chelmsford,age_25_49,29324
+Chelmsford,age_50_64,17029
+Colchester,all_ages,98139
+Colchester,age_16_24,13033
+Colchester,age_25_49,33166
+Colchester,age_50_64,17104
+Epping Forest,all_ages,64876
+Epping Forest,age_16_24,5993
+Epping Forest,age_25_49,20673
+Epping Forest,age_50_64,13182
+Harlow,all_ages,43069
+Harlow,age_16_24,4347
+Harlow,age_25_49,14640
+Harlow,age_50_64,7874
+Maldon,all_ages,31764
+Maldon,age_16_24,2753
+Maldon,age_25_49,8045
+Maldon,age_50_64,7580
+Rochford,all_ages,42934
+Rochford,age_16_24,3974
+Rochford,age_25_49,12389
+Rochford,age_50_64,9330
+Tendring,all_ages,71494
+Tendring,age_16_24,6348
+Tendring,age_25_49,16846
+Tendring,age_50_64,15192
+Uttlesford,all_ages,44356
+Uttlesford,age_16_24,3872
+Uttlesford,age_25_49,12797
+Uttlesford,age_50_64,9677
+Broxbourne,all_ages,48030
+Broxbourne,age_16_24,4766
+Broxbourne,age_25_49,15665
+Broxbourne,age_50_64,9241
+Dacorum,all_ages,77465
+Dacorum,age_16_24,6577
+Dacorum,age_25_49,26421
+Dacorum,age_50_64,15477
+East Hertfordshire,all_ages,74315
+East Hertfordshire,age_16_24,6236
+East Hertfordshire,age_25_49,24015
+East Hertfordshire,age_50_64,15840
+Hertsmere,all_ages,50994
+Hertsmere,age_16_24,4700
+Hertsmere,age_25_49,16223
+Hertsmere,age_50_64,9772
+North Hertfordshire,all_ages,67055
+North Hertfordshire,age_16_24,5586
+North Hertfordshire,age_25_49,22168
+North Hertfordshire,age_50_64,13514
+St Albans,all_ages,73799
+St Albans,age_16_24,5597
+St Albans,age_25_49,25094
+St Albans,age_50_64,14014
+Stevenage,all_ages,44063
+Stevenage,age_16_24,4289
+Stevenage,age_25_49,15263
+Stevenage,age_50_64,8669
+Three Rivers,all_ages,46713
+Three Rivers,age_16_24,4026
+Three Rivers,age_25_49,15257
+Three Rivers,age_50_64,9241
+Watford,all_ages,49802
+Watford,age_16_24,4593
+Watford,age_25_49,19349
+Watford,age_50_64,8558
+Welwyn Hatfield,all_ages,62794
+Welwyn Hatfield,age_16_24,9717
+Welwyn Hatfield,age_25_49,21250
+Welwyn Hatfield,age_50_64,10554
+Breckland,all_ages,70677
+Breckland,age_16_24,6248
+Breckland,age_25_49,20190
+Breckland,age_50_64,14424
+Broadland,all_ages,63264
+Broadland,age_16_24,5349
+Broadland,age_25_49,17542
+Broadland,age_50_64,13782
+Great Yarmouth,all_ages,49597
+Great Yarmouth,age_16_24,4821
+Great Yarmouth,age_25_49,14151
+Great Yarmouth,age_50_64,9829
+King's Lynn and West Norfolk,all_ages,75961
+King's Lynn and West Norfolk,age_16_24,6687
+King's Lynn and West Norfolk,age_25_49,21023
+King's Lynn and West Norfolk,age_50_64,15637
+North Norfolk,all_ages,51212
+North Norfolk,age_16_24,3875
+North Norfolk,age_25_49,11920
+North Norfolk,age_50_64,11471
+Norwich,all_ages,71776
+Norwich,age_16_24,11805
+Norwich,age_25_49,26385
+Norwich,age_50_64,11046
+South Norfolk,all_ages,67702
+South Norfolk,age_16_24,5581
+South Norfolk,age_25_49,18946
+South Norfolk,age_50_64,14160
+Babergh,all_ages,44742
+Babergh,age_16_24,3742
+Babergh,age_25_49,11712
+Babergh,age_50_64,9849
+Forest Heath,all_ages,33504
+Forest Heath,age_16_24,3639
+Forest Heath,age_25_49,11044
+Forest Heath,age_50_64,5873
+Ipswich,all_ages,71278
+Ipswich,age_16_24,7566
+Ipswich,age_25_49,25240
+Ipswich,age_50_64,12845
+Mid Suffolk,all_ages,50964
+Mid Suffolk,age_16_24,4262
+Mid Suffolk,age_25_49,14069
+Mid Suffolk,age_50_64,11389
+St Edmundsbury,all_ages,57579
+St Edmundsbury,age_16_24,5290
+St Edmundsbury,age_25_49,18261
+St Edmundsbury,age_50_64,11192
+Suffolk Coastal,all_ages,63352
+Suffolk Coastal,age_16_24,5197
+Suffolk Coastal,age_25_49,15877
+Suffolk Coastal,age_50_64,14331
+Waveney,all_ages,57808
+Waveney,age_16_24,5212
+Waveney,age_25_49,15392
+Waveney,age_50_64,11946
+Aylesbury Vale,all_ages,101140
+Aylesbury Vale,age_16_24,9667
+Aylesbury Vale,age_25_49,33093
+Aylesbury Vale,age_50_64,20263
+Chiltern,all_ages,46797
+Chiltern,age_16_24,3671
+Chiltern,age_25_49,13092
+Chiltern,age_50_64,10214
+South Bucks,all_ages,34513
+South Bucks,age_16_24,2714
+South Bucks,age_25_49,10033
+South Bucks,age_50_64,7689
+Wycombe,all_ages,87173
+Wycombe,age_16_24,9034
+Wycombe,age_25_49,27231
+Wycombe,age_50_64,16881
+Eastbourne,all_ages,51732
+Eastbourne,age_16_24,5240
+Eastbourne,age_25_49,14889
+Eastbourne,age_50_64,10224
+Hastings,all_ages,46581
+Hastings,age_16_24,4666
+Hastings,age_25_49,14289
+Hastings,age_50_64,9644
+Lewes,all_ages,50925
+Lewes,age_16_24,4512
+Lewes,age_25_49,13721
+Lewes,age_50_64,11102
+Rother,all_ages,46719
+Rother,age_16_24,3761
+Rother,age_25_49,10567
+Rother,age_50_64,10533
+Wealden,all_ages,79212
+Wealden,age_16_24,6669
+Wealden,age_25_49,20403
+Wealden,age_50_64,18110
+Basingstoke and Deane,all_ages,88828
+Basingstoke and Deane,age_16_24,8063
+Basingstoke and Deane,age_25_49,29266
+Basingstoke and Deane,age_50_64,18274
+East Hampshire,all_ages,58415
+East Hampshire,age_16_24,5210
+East Hampshire,age_25_49,15530
+East Hampshire,age_50_64,13254
+Eastleigh,all_ages,64936
+Eastleigh,age_16_24,6024
+Eastleigh,age_25_49,20489
+Eastleigh,age_50_64,13069
+Fareham,all_ages,58067
+Fareham,age_16_24,5854
+Fareham,age_25_49,16773
+Fareham,age_50_64,12570
+Gosport,all_ages,43456
+Gosport,age_16_24,4871
+Gosport,age_25_49,13391
+Gosport,age_50_64,8671
+Hart,all_ages,47741
+Hart,age_16_24,3997
+Hart,age_25_49,15166
+Hart,age_50_64,9844
+Havant,all_ages,61063
+Havant,age_16_24,6094
+Havant,age_25_49,16746
+Havant,age_50_64,12833
+New Forest,all_ages,87560
+New Forest,age_16_24,7353
+New Forest,age_25_49,21765
+New Forest,age_50_64,19207
+Rushmoor,all_ages,48533
+Rushmoor,age_16_24,5309
+Rushmoor,age_25_49,17492
+Rushmoor,age_50_64,9331
+Test Valley,all_ages,61597
+Test Valley,age_16_24,5298
+Test Valley,age_25_49,18004
+Test Valley,age_50_64,13291
+Winchester,all_ages,61605
+Winchester,age_16_24,7299
+Winchester,age_25_49,17441
+Winchester,age_50_64,12390
+Ashford,all_ages,63949
+Ashford,age_16_24,5932
+Ashford,age_25_49,19162
+Ashford,age_50_64,13231
+Canterbury,all_ages,83760
+Canterbury,age_16_24,15837
+Canterbury,age_25_49,23945
+Canterbury,age_50_64,14317
+Dartford,all_ages,54362
+Dartford,age_16_24,4873
+Dartford,age_25_49,19760
+Dartford,age_50_64,10064
+Dover,all_ages,57639
+Dover,age_16_24,5255
+Dover,age_25_49,15761
+Dover,age_50_64,12817
+Gravesham,all_ages,54107
+Gravesham,age_16_24,5405
+Gravesham,age_25_49,17562
+Gravesham,age_50_64,10601
+Maidstone,all_ages,85287
+Maidstone,age_16_24,7948
+Maidstone,age_25_49,27170
+Maidstone,age_50_64,17043
+Sevenoaks,all_ages,59009
+Sevenoaks,age_16_24,4731
+Sevenoaks,age_25_49,17336
+Sevenoaks,age_50_64,12290
+Folkestone and Hythe,all_ages,56203
+Folkestone and Hythe,age_16_24,5016
+Folkestone and Hythe,age_25_49,15963
+Folkestone and Hythe,age_50_64,12155
+Swale,all_ages,74832
+Swale,age_16_24,7255
+Swale,age_25_49,22493
+Swale,age_50_64,15262
+Thanet,all_ages,70806
+Thanet,age_16_24,7024
+Thanet,age_25_49,19411
+Thanet,age_50_64,14111
+Tonbridge and Malling,all_ages,64351
+Tonbridge and Malling,age_16_24,5946
+Tonbridge and Malling,age_25_49,19389
+Tonbridge and Malling,age_50_64,13436
+Tunbridge Wells,all_ages,58869
+Tunbridge Wells,age_16_24,4751
+Tunbridge Wells,age_25_49,19159
+Tunbridge Wells,age_50_64,12160
+Cherwell,all_ages,74244
+Cherwell,age_16_24,6563
+Cherwell,age_25_49,24468
+Cherwell,age_50_64,15023
+Oxford,all_ages,80008
+Oxford,age_16_24,18704
+Oxford,age_25_49,27683
+Oxford,age_50_64,10632
+South Oxfordshire,all_ages,70007
+South Oxfordshire,age_16_24,6159
+South Oxfordshire,age_25_49,21481
+South Oxfordshire,age_50_64,14514
+Vale of White Horse,all_ages,66357
+Vale of White Horse,age_16_24,6032
+Vale of White Horse,age_25_49,20788
+Vale of White Horse,age_50_64,13345
+West Oxfordshire,all_ages,54156
+West Oxfordshire,age_16_24,4695
+West Oxfordshire,age_25_49,16827
+West Oxfordshire,age_50_64,11080
+Elmbridge,all_ages,67206
+Elmbridge,age_16_24,5222
+Elmbridge,age_25_49,21050
+Elmbridge,age_50_64,13713
+Epsom and Ewell,all_ages,39587
+Epsom and Ewell,age_16_24,3588
+Epsom and Ewell,age_25_49,12745
+Epsom and Ewell,age_50_64,7856
+Guildford,all_ages,76166
+Guildford,age_16_24,11690
+Guildford,age_25_49,25623
+Guildford,age_50_64,13247
+Mole Valley,all_ages,43152
+Mole Valley,age_16_24,3566
+Mole Valley,age_25_49,11989
+Mole Valley,age_50_64,9895
+Reigate and Banstead,all_ages,73427
+Reigate and Banstead,age_16_24,5966
+Reigate and Banstead,age_25_49,24369
+Reigate and Banstead,age_50_64,14850
+Runnymede,all_ages,43894
+Runnymede,age_16_24,6234
+Runnymede,age_25_49,14400
+Runnymede,age_50_64,8093
+Spelthorne,all_ages,49935
+Spelthorne,age_16_24,4449
+Spelthorne,age_25_49,16436
+Spelthorne,age_50_64,10093
+Surrey Heath,all_ages,44418
+Surrey Heath,age_16_24,3943
+Surrey Heath,age_25_49,13740
+Surrey Heath,age_50_64,9633
+Tandridge,all_ages,43518
+Tandridge,age_16_24,3640
+Tandridge,age_25_49,13100
+Tandridge,age_50_64,9366
+Waverley,all_ages,61749
+Waverley,age_16_24,5865
+Waverley,age_25_49,17389
+Waverley,age_50_64,12611
+Woking,all_ages,51397
+Woking,age_16_24,4003
+Woking,age_25_49,17765
+Woking,age_50_64,9832
+Adur,all_ages,32061
+Adur,age_16_24,2788
+Adur,age_25_49,9526
+Adur,age_50_64,6488
+Arun,all_ages,78375
+Arun,age_16_24,6579
+Arun,age_25_49,20473
+Arun,age_50_64,16185
+Chichester,all_ages,59400
+Chichester,age_16_24,6326
+Chichester,age_25_49,14778
+Chichester,age_50_64,12758
+Crawley,all_ages,57447
+Crawley,age_16_24,5591
+Crawley,age_25_49,21358
+Crawley,age_50_64,10296
+Horsham,all_ages,69608
+Horsham,age_16_24,5900
+Horsham,age_25_49,19533
+Horsham,age_50_64,15474
+Mid Sussex,all_ages,74486
+Mid Sussex,age_16_24,6163
+Mid Sussex,age_25_49,22964
+Mid Sussex,age_50_64,15447
+Worthing,all_ages,54519
+Worthing,age_16_24,4786
+Worthing,age_25_49,16718
+Worthing,age_50_64,11374
+East Devon,all_ages,70801
+East Devon,age_16_24,5817
+East Devon,age_25_49,17461
+East Devon,age_50_64,14780
+Exeter,all_ages,66393
+Exeter,age_16_24,12747
+Exeter,age_25_49,23885
+Exeter,age_50_64,9993
+Mid Devon,all_ages,39735
+Mid Devon,age_16_24,3546
+Mid Devon,age_25_49,10654
+Mid Devon,age_50_64,8525
+North Devon,all_ages,46746
+North Devon,age_16_24,4107
+North Devon,age_25_49,12838
+North Devon,age_50_64,10062
+South Hams,all_ages,41577
+South Hams,age_16_24,3494
+South Hams,age_25_49,9987
+South Hams,age_50_64,9629
+Teignbridge,all_ages,65060
+Teignbridge,age_16_24,5271
+Teignbridge,age_25_49,17348
+Teignbridge,age_50_64,14503
+Torridge,all_ages,33904
+Torridge,age_16_24,2790
+Torridge,age_25_49,8359
+Torridge,age_50_64,7824
+West Devon,all_ages,27108
+West Devon,age_16_24,2015
+West Devon,age_25_49,6593
+West Devon,age_50_64,6506
+Christchurch,all_ages,24641
+Christchurch,age_16_24,2088
+Christchurch,age_25_49,6098
+Christchurch,age_50_64,5026
+East Dorset,all_ages,43587
+East Dorset,age_16_24,3436
+East Dorset,age_25_49,10186
+East Dorset,age_50_64,9445
+North Dorset,all_ages,35842
+North Dorset,age_16_24,3299
+North Dorset,age_25_49,9674
+North Dorset,age_50_64,7761
+Purbeck,all_ages,23268
+Purbeck,age_16_24,2158
+Purbeck,age_25_49,5945
+Purbeck,age_50_64,5103
+West Dorset,all_ages,49847
+West Dorset,age_16_24,3736
+West Dorset,age_25_49,11534
+West Dorset,age_50_64,11425
+Weymouth and Portland,all_ages,32812
+Weymouth and Portland,age_16_24,3064
+Weymouth and Portland,age_25_49,8748
+Weymouth and Portland,age_50_64,7262
+Cheltenham,all_ages,58225
+Cheltenham,age_16_24,6640
+Cheltenham,age_25_49,19282
+Cheltenham,age_50_64,11051
+Cotswold,all_ages,42752
+Cotswold,age_16_24,3977
+Cotswold,age_25_49,10880
+Cotswold,age_50_64,9887
+Forest of Dean,all_ages,43058
+Forest of Dean,age_16_24,4319
+Forest of Dean,age_25_49,10953
+Forest of Dean,age_50_64,9980
+Gloucester,all_ages,65627
+Gloucester,age_16_24,7129
+Gloucester,age_25_49,21708
+Gloucester,age_50_64,12722
+Stroud,all_ages,59397
+Stroud,age_16_24,5038
+Stroud,age_25_49,17016
+Stroud,age_50_64,13177
+Tewkesbury,all_ages,45272
+Tewkesbury,age_16_24,3717
+Tewkesbury,age_25_49,13340
+Tewkesbury,age_50_64,9607
+Mendip,all_ages,56363
+Mendip,age_16_24,5169
+Mendip,age_25_49,15347
+Mendip,age_50_64,12428
+Sedgemoor,all_ages,61963
+Sedgemoor,age_16_24,5704
+Sedgemoor,age_25_49,16882
+Sedgemoor,age_50_64,13449
+South Somerset,all_ages,83409
+South Somerset,age_16_24,7404
+South Somerset,age_25_49,22735
+South Somerset,age_50_64,17602
+Taunton Deane,all_ages,58298
+Taunton Deane,age_16_24,5172
+Taunton Deane,age_25_49,16955
+Taunton Deane,age_50_64,11944
+West Somerset,all_ages,16649
+West Somerset,age_16_24,1306
+West Somerset,age_25_49,3307
+West Somerset,age_50_64,3920
+Greater Manchester (Met County),all_ages,1414766
+Greater Manchester (Met County),age_16_24,161220
+Greater Manchester (Met County),age_25_49,485480
+Greater Manchester (Met County),age_50_64,254839
+Inner London,all_ages,1865050
+Inner London,age_16_24,199045
+Inner London,age_25_49,884256
+Inner London,age_50_64,267792
+Merseyside (Met County),all_ages,701427
+Merseyside (Met County),age_16_24,79394
+Merseyside (Met County),age_25_49,226648
+Merseyside (Met County),age_50_64,136307
+Outer London,all_ages,2708926
+Outer London,age_16_24,270477
+Outer London,age_25_49,1023527
+Outer London,age_50_64,464070
+South Yorkshire (Met County),all_ages,701387
+South Yorkshire (Met County),age_16_24,86881
+South Yorkshire (Met County),age_25_49,225794
+South Yorkshire (Met County),age_50_64,134208
+Tyne and Wear (Met County),all_ages,561338
+Tyne and Wear (Met County),age_16_24,70127
+Tyne and Wear (Met County),age_25_49,181241
+Tyne and Wear (Met County),age_50_64,108887
+West Midlands (Met County),all_ages,1467946
+West Midlands (Met County),age_16_24,187724
+West Midlands (Met County),age_25_49,495388
+West Midlands (Met County),age_50_64,245848
+West Yorkshire (Met County),all_ages,1153544
+West Yorkshire (Met County),age_16_24,139353
+West Yorkshire (Met County),age_25_49,376262
+West Yorkshire (Met County),age_50_64,211740
+North East,all_ages,1307700
+North East,age_16_24,149982
+North East,age_25_49,400582
+North East,age_50_64,264728
+North West,all_ages,3623706
+North West,age_16_24,392849
+North West,age_25_49,1156788
+North West,age_50_64,707100
+Yorkshire and The Humber,all_ages,2725394
+Yorkshire and The Humber,age_16_24,316914
+Yorkshire and The Humber,age_25_49,859773
+Yorkshire and The Humber,age_50_64,528384
+East Midlands,all_ages,2398243
+East Midlands,age_16_24,270187
+East Midlands,age_25_49,741611
+East Midlands,age_50_64,475894
+West Midlands,all_ages,2950540
+West Midlands,age_16_24,334236
+West Midlands,age_25_49,944259
+West Midlands,age_50_64,553120
+East,all_ages,3117838
+East,age_16_24,306435
+East,age_25_49,989336
+East,age_50_64,609771
+London,all_ages,4573976
+London,age_16_24,469522
+London,age_25_49,1907783
+London,age_50_64,731862
+South East,all_ages,4577221
+South East,age_16_24,482189
+South East,age_25_49,1438486
+South East,age_50_64,903275
+South West,all_ages,2794484
+South West,age_16_24,299616
+South West,age_25_49,830906
+South West,age_50_64,560387
+England,all_ages,28069102
+England,age_16_24,3021930
+England,age_25_49,9269524
+England,age_50_64,5334521
